@@ -1,22 +1,26 @@
 ---
 layout: post
 title: 'my 1st'
-date: 2023-09-23 22:00:00 +0800
+date: 2023-09-23 22:10:00 +0800
 author: hyp
 color: rgb(255,210,32)
-cover: '../asssts/test.png'
-tags: update
-subtitle: 'Welcome here'
+cover: '../assets/test.png'
+tags: vim linux
+subtitle: '一些vim操作'
 ---
 
+今天试了一下vim，有几个操作觉得很有意思，可以解放鼠标，只用键盘。
 
-# Welcome
+- 移动到行尾 shift 4
+- 移动到行首 0
+- 移动到文件头 gg
+- 移动到文件尾 shift g
+- 到指定第n行 :n
+- 删除行 dd
+- 删除光标至末尾 shift d
+- 光标下起一个空行 o
+- 光标上起空行 shift o
+- 复制本行到下一行 yyp
+- 多光标 ctrl v
 
-## Welcome
-
-### Welcome
-
-随便写写adasdadasdadadsada
-
-### ok
 
